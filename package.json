@@ -22,7 +22,7 @@
         "types": "./dist/index.d.ts",
         "default": "./dist/index.js"
       },
-      "browser": {
+      "default": {
         "import": "./dist/browser.js",
         "types": "./dist/browser.d.ts",
         "default": "./dist/browser.js"
